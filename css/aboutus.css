@@ -93,6 +93,7 @@ p {
 .footer ul {
   font-size: 20px;
   list-style-type: none;
+  left: 30%;
 }
 
 .footer1 {
@@ -146,4 +147,15 @@ h2 {
   float: right;
   padding-right: 2%;
   padding-left: 2%;
+}
+
+h1 {
+  font-size: 80px;
+  text-align: center;
+  margin-top: -5%;
+  margin-bottom: 3%;
+}
+
+h2 {
+  text-align: center;
 }

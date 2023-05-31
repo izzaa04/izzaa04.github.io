@@ -49,3 +49,17 @@ position: absolute; } #back_arrow { font-size: 25px; font-family: "Times New
 Roman", Times, serif; border-radius: 50px; background-color: #fc813581; border:
 rgb(0, 0, 0); color: rgb(0, 0, 0); padding: 35px 35px; text-decoration: none;
 margin-right: 1265px; margin-top: -300px; position: absolute; }
+
+<div class="centered">
+  <div class="heading"><b>FALSE CEILING</b></div>
+  <p>
+    False Ceilings are an important factor to consider when creating the right
+    atmosphere and ambience for your workplace and that of visiting clients or
+    people. A good ceiling installation can also improve the working conditions
+    for staff too which can help increase their productivity!
+    <br />
+    <a href="/html/services.html"
+      ><button class="learn_more"><b>LEARN MORE</b></button></a
+    >
+  </p>
+</div>
