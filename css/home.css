@@ -118,14 +118,14 @@ p {
   position: absolute;
   margin-left: 33%;
   margin-right: 33%;
-  top: 50%;
+  top: 55.5%;
 }
 
 .review2 {
   position: absolute;
   margin-right: 22.5%;
   right: 40pc;
-  top: 52%;
+  top: 58%;
 }
 
 .rectangle8 {
@@ -144,13 +144,13 @@ p {
   position: absolute;
   margin-left: 12%;
   left: 50pc;
-  top: 52%;
+  top: 58%;
 }
 
 .sidebar {
   position: fixed;
   top: 0;
-  right: -350px; /* Hide the sidebar by default */
+  right: -350px;
   width: 350px;
   height: 100%;
   transition: right 0.3s ease;
@@ -216,7 +216,7 @@ body {
 
 .centered {
   position: absolute;
-  top: 10%;
+  top: 11%;
   text-align: center;
   margin-left: 20pc;
   margin-right: 20pc;
@@ -225,11 +225,69 @@ body {
 .heading2 {
   font-size: 40px;
   text-align: left;
-  margin-left: 40px;
+  margin-left: 35px;
 }
 
-.footer {
+.footer p {
+  text-align: left;
+  margin-left: 35px;
+  font-size: 20px;
+}
+
+.footer ul {
+  font-size: 20px;
+  list-style-type: none;
+}
+
+.footer1 {
   background-color: black;
   color: #dd7c40;
   padding: 20px 10px;
+  margin-bottom: -1px;
+}
+
+h2 {
+  margin-left: 35px;
+  margin-top: 2%;
+}
+
+.logo_plain {
+  margin-left: 80%;
+  margin-top: -18%;
+  margin-bottom: 3%;
+}
+
+.work_hours {
+  margin-left: 35%;
+  margin-top: -13%;
+}
+
+.contactus {
+  margin-left: 75%;
+  margin-top: -9%;
+  margin-bottom: 8%;
+}
+
+.instagram {
+  float: right;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.facebook {
+  float: right;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.twitter {
+  float: right;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.linkedin {
+  float: right;
+  padding-right: 2%;
+  padding-left: 2%;
 }

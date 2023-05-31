@@ -77,3 +77,73 @@ p {
   margin-right: 30px;
   text-align: center;
 }
+
+.heading2 {
+  font-size: 40px;
+  text-align: left;
+  margin-left: 35px;
+}
+
+.footer p {
+  text-align: left;
+  margin-left: 35px;
+  font-size: 20px;
+}
+
+.footer ul {
+  font-size: 20px;
+  list-style-type: none;
+}
+
+.footer1 {
+  background-color: black;
+  color: #dd7c40;
+  padding: 20px 10px;
+  margin-bottom: -1px;
+}
+
+h2 {
+  margin-left: 35px;
+  margin-top: 2%;
+}
+
+.logo_plain {
+  margin-left: 80%;
+  margin-top: -18%;
+  margin-bottom: 3%;
+}
+
+.work_hours {
+  margin-left: 35%;
+  margin-top: -13%;
+}
+
+.contactus {
+  margin-left: 75%;
+  margin-top: -9%;
+  margin-bottom: 8%;
+}
+
+.instagram {
+  float: right;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.facebook {
+  float: right;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.twitter {
+  float: right;
+  padding-right: 2%;
+  padding-left: 2%;
+}
+
+.linkedin {
+  float: right;
+  padding-right: 2%;
+  padding-left: 2%;
+}
