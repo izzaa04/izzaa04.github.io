@@ -98,6 +98,7 @@ table img {
 table img:hover {
   border: solid black;
   padding: 0%;
+  opacity: 0.5;
 }
 
 .heading2 {
